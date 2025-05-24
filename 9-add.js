@@ -1,3 +1,4 @@
+#!/usr/bin/ env node
 // A script that prints the addition of  integers
 
 function add(a, b) {

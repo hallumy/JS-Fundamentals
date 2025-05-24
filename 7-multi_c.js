@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // A script that prints x times "C is fun"
 
 let sentence = parseInt(process.argv[2]);

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // A script that prints an integer
 
 const arguments = process.argv[2];

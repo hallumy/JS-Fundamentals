@@ -66,3 +66,10 @@ A script that prints the addition of 2 integers
 The first argument is the first integer
 The second argument is the second integer
 Define a function with this prototype: function add(a, b)
+
+# Factorial
+
+A script that computes and prints a factorial
+
+The first argument is integer (argument can be cast as integer) used for computing the factorial
+Factorial of NaN is 1

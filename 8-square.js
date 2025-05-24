@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // A script that prints a square
 
 let sentence = parseInt(process.argv[2]);

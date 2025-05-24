@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // A script that prints 3 lines
 
 const sentence = ["C is fun", "Python is cool", "JavaScript is amazing"];
