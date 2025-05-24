@@ -4,9 +4,9 @@ function add(a, b) {
    return a + b;
 }
 
-const sentence = process.argv.slice(2);
-const first_arg = parseInt(sentence[0]);
-const second_arg = parseInt(sentence[1]);
+const num = process.argv.slice(2);
+const first_arg = parseInt(num[0]);
+const second_arg = parseInt(num[1]);
 
 if (Number.isNaN(first_arg) || Number.isNaN(second_arg)) {
     console.log("NaN");
