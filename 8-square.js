@@ -8,6 +8,6 @@ if (Number.isNaN(sentence)) {
     console.log('Missing size');
 } else {
 for (let x = 0; x < sentence; x++) {
-   console.log(x ** 2);
+   console.log('X'.repeat(sentence));
  }
 }
